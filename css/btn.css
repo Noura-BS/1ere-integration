@@ -1,0 +1,10 @@
+/* bouton contactez-moi*/
+
+.btnblue {
+    width: 100%;
+    color: lightblue;
+    border: 1px dashed white;
+    text-align: center;
+    background-color: var(--darkblue);
+    padding: 15px;
+}

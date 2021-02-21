@@ -1,0 +1,11 @@
+/*POLICE TEXTE*/
+
+body {
+    font-family: "Arial, sans-serif";
+}
+
+/*POLICE HEADINGS*/
+
+h1 + h2 {
+    font-family: Abel, Arial, Helvetica, sans-serif;
+}
